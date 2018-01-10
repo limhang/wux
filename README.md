@@ -14,6 +14,9 @@
 - 组件的wxml结构请看`dist/components/`下的组件
 - 样式文件可直接引用`dist/components/wux.wxss`
 
+## 更改
+定制修改自己的component，需要编译该项目`npm install`安装需要的模块，然后执行`gulp`就能编译项目了
+
 ## 插件及文档
 
 * [ActionSheet - 上拉菜单](https://github.com/skyvow/wux/blob/master/docs/components/actionsheet.md)
